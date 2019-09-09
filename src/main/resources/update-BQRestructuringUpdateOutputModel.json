@@ -1,0 +1,58 @@
+{
+  "creditFacilityFulfillmentArrangementInstanceRecord" : {
+    "associations" : {
+      "associationReference" : "764553",
+      "associationType" : "associationType",
+      "associationObligationEntitlement" : "associationObligationEntitlement"
+    },
+    "taxReference" : "748331",
+    "creditFacilityRepaymentSchedule" : "creditFacilityRepaymentSchedule",
+    "restrictionOptionSetting" : "restrictionOptionSetting",
+    "creditFacilityAmount" : "USD 250",
+    "insuranceReference" : "745238",
+    "interestType" : "interestType",
+    "customerCreditAssessmentReference" : "730459",
+    "creditFacilityOriginationDate" : "09-22-2018",
+    "productInstanceReference" : "772528",
+    "repaymentType" : "repaymentType",
+    "dateType" : {
+      "date" : "09-22-2018"
+    },
+    "customerReference" : "745710",
+    "creditFacilityMaturityDate" : "09-22-2018",
+    "creditFacilityAccessTerms" : "creditFacilityAccessTerms",
+    "customerAgreementReference" : "794520",
+    "creditFacilityType" : "creditFacilityType",
+    "collateralAllocation" : "collateralAllocation",
+    "restrictionOptionDefinition" : "restrictionOptionDefinition",
+    "stagedRepaymentStatement" : "stagedRepaymentStatement",
+    "interestAccrualMethod" : "interestAccrualMethod",
+    "creditFacilityNumber" : "creditFacilityNumber",
+    "partyReference" : "736469",
+    "collateralReference" : "798954",
+    "customerCommentary" : "customerCommentary",
+    "creditFacilityRateType" : "creditFacilityRateType",
+    "creditFacilityOutstandingBalance" : "creditFacilityOutstandingBalance",
+    "bankBranchLocationReference" : "795573",
+    "entitlementOptionSetting" : "entitlementOptionSetting",
+    "creditFacilityCurrency" : "USD",
+    "creditFacilityApplicableRate" : "creditFacilityApplicableRate",
+    "bankAccountingUnitReference" : "726408",
+    "creditFacilityUnderlyingDrawdown" : {
+      "drawdownRecord" : {
+        "drawdownLoanTransaction" : "drawdownLoanTransaction"
+      },
+      "drawdownReference" : "781514"
+    },
+    "entitlementOptionDefinition" : "entitlementOptionDefinition",
+    "delinquencyCollectionReference" : "770766"
+  },
+  "restructuringUpdateActionTaskRecord" : {},
+  "restructuringUpdateActionTaskReference" : "RUATR700123",
+  "updateResponseRecord" : {},
+  "restructuringInstanceRecord" : {
+    "restructuringEvaluation" : "restructuringEvaluation",
+    "restructuringWriteDown" : "restructuringWriteDown",
+    "restructuringTask" : "restructuringTask"
+  }
+}

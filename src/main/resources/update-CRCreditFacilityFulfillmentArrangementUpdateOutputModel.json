@@ -1,0 +1,53 @@
+{
+  "creditFacilityFulfillmentArrangementUpdateActionTaskReference" : "CFFAUATR762566",
+  "creditFacilityFulfillmentArrangementInstanceRecord" : {
+    "associations" : {
+      "associationReference" : "759915",
+      "associationType" : "associationType",
+      "associationObligationEntitlement" : "associationObligationEntitlement"
+    },
+    "taxReference" : "778181",
+    "creditFacilityRepaymentSchedule" : "creditFacilityRepaymentSchedule",
+    "restrictionOptionSetting" : "restrictionOptionSetting",
+    "creditFacilityAmount" : "USD 250",
+    "insuranceReference" : "765744",
+    "interestType" : "interestType",
+    "customerCreditAssessmentReference" : "703051",
+    "creditFacilityOriginationDate" : "09-22-2018",
+    "productInstanceReference" : "778210",
+    "repaymentType" : "repaymentType",
+    "dateType" : {
+      "date" : "09-22-2018"
+    },
+    "customerReference" : "758497",
+    "creditFacilityMaturityDate" : "09-22-2018",
+    "creditFacilityAccessTerms" : "creditFacilityAccessTerms",
+    "customerAgreementReference" : "723072",
+    "creditFacilityType" : "creditFacilityType",
+    "collateralAllocation" : "collateralAllocation",
+    "restrictionOptionDefinition" : "restrictionOptionDefinition",
+    "stagedRepaymentStatement" : "stagedRepaymentStatement",
+    "interestAccrualMethod" : "interestAccrualMethod",
+    "creditFacilityNumber" : "creditFacilityNumber",
+    "partyReference" : "778403",
+    "collateralReference" : "789920",
+    "customerCommentary" : "customerCommentary",
+    "creditFacilityRateType" : "creditFacilityRateType",
+    "creditFacilityOutstandingBalance" : "creditFacilityOutstandingBalance",
+    "bankBranchLocationReference" : "717059",
+    "entitlementOptionSetting" : "entitlementOptionSetting",
+    "creditFacilityCurrency" : "USD",
+    "creditFacilityApplicableRate" : "creditFacilityApplicableRate",
+    "bankAccountingUnitReference" : "748988",
+    "creditFacilityUnderlyingDrawdown" : {
+      "drawdownRecord" : {
+        "drawdownLoanTransaction" : "drawdownLoanTransaction"
+      },
+      "drawdownReference" : "775561"
+    },
+    "entitlementOptionDefinition" : "entitlementOptionDefinition",
+    "delinquencyCollectionReference" : "776352"
+  },
+  "updateResponseRecord" : {},
+  "creditFacilityFulfillmentArrangementUpdateActionTaskRecord" : {}
+}

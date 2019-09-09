@@ -1,0 +1,9 @@
+{
+  "repaymentExecuteRecordReference" : "RERR771115",
+  "executeResponseRecord" : {},
+  "repaymentInstanceRecord" : {
+    "repaymentTransactionValueDate" : "09-22-2018"
+  },
+  "repaymentExecuteActionTaskReference" : "REATR732780",
+  "repaymentExecuteActionTaskRecord" : {}
+}

@@ -1,0 +1,75 @@
+{
+  "creditFacilityFulfillmentArrangementInstanceRecord" : {
+    "associations" : {
+      "associationReference" : "784554",
+      "associationType" : "associationType",
+      "associationObligationEntitlement" : "associationObligationEntitlement"
+    },
+    "taxReference" : "751194",
+    "creditFacilityRepaymentSchedule" : "creditFacilityRepaymentSchedule",
+    "restrictionOptionSetting" : "restrictionOptionSetting",
+    "creditFacilityAmount" : "USD 250",
+    "insuranceReference" : "705044",
+    "interestType" : "interestType",
+    "customerCreditAssessmentReference" : "707215",
+    "creditFacilityOriginationDate" : "09-22-2018",
+    "productInstanceReference" : "708472",
+    "repaymentType" : "repaymentType",
+    "dateType" : {
+      "date" : "09-22-2018"
+    },
+    "customerReference" : "715405",
+    "creditFacilityMaturityDate" : "09-22-2018",
+    "creditFacilityAccessTerms" : "creditFacilityAccessTerms",
+    "customerAgreementReference" : "782744",
+    "creditFacilityType" : "creditFacilityType",
+    "collateralAllocation" : "collateralAllocation",
+    "restrictionOptionDefinition" : "restrictionOptionDefinition",
+    "stagedRepaymentStatement" : "stagedRepaymentStatement",
+    "interestAccrualMethod" : "interestAccrualMethod",
+    "creditFacilityNumber" : "creditFacilityNumber",
+    "partyReference" : "752888",
+    "collateralReference" : "780583",
+    "customerCommentary" : "customerCommentary",
+    "creditFacilityRateType" : "creditFacilityRateType",
+    "creditFacilityOutstandingBalance" : "creditFacilityOutstandingBalance",
+    "bankBranchLocationReference" : "745611",
+    "entitlementOptionSetting" : "entitlementOptionSetting",
+    "creditFacilityCurrency" : "USD",
+    "creditFacilityApplicableRate" : "creditFacilityApplicableRate",
+    "bankAccountingUnitReference" : "719628",
+    "creditFacilityUnderlyingDrawdown" : {
+      "drawdownRecord" : {
+        "drawdownLoanTransaction" : "drawdownLoanTransaction"
+      },
+      "drawdownReference" : "745759"
+    },
+    "entitlementOptionDefinition" : "entitlementOptionDefinition",
+    "delinquencyCollectionReference" : "710327"
+  },
+  "maintenanceRetrieveActionTaskRecord" : {},
+  "maintenanceInstanceRecord" : {
+    "maintenanceReportType" : {
+      "creditFacilityCollateralValuation" : "creditFacilityCollateralValuation",
+      "creditFacilityTaxReport" : {},
+      "creditFacilityFeeType" : {
+        "creditFacilityFees" : "creditFacilityFees"
+      },
+      "creditFacilityPenalties" : "creditFacilityPenalties"
+    }
+  },
+  "maintenanceRetrieveActionTaskReference" : "MRATR799079",
+  "maintenanceInstanceReport" : {
+    "maintenanceInstanceReportRecord" : {},
+    "maintenanceInstanceReportParameters" : "maintenanceInstanceReportParameters",
+    "maintenanceInstanceReportType" : "maintenanceInstanceReportType",
+    "maintenanceInstanceReport" : {}
+  },
+  "maintenanceInstanceAnalysis" : {
+    "maintenanceInstanceAnalysisRecord" : {},
+    "maintenanceInstanceAnalysisReport" : {},
+    "maintenanceInstanceAnalysisReportType" : "maintenanceInstanceAnalysisReportType",
+    "maintenanceInstanceAnalysisParameters" : "maintenanceInstanceAnalysisParameters"
+  },
+  "maintenanceRetrieveActionResponse" : "maintenanceRetrieveActionResponse"
+}

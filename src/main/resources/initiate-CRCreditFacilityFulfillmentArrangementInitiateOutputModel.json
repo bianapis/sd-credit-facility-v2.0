@@ -1,0 +1,15 @@
+{
+  "creditFacilityFulfillmentArrangementInstanceRecord" : {
+    "productInstanceReference" : "761439",
+    "dateType" : {
+      "date" : "09-22-2018"
+    },
+    "stagedRepaymentStatement" : "stagedRepaymentStatement",
+    "customerCommentary" : "customerCommentary",
+    "creditFacilityOutstandingBalance" : "creditFacilityOutstandingBalance"
+  },
+  "creditFacilityFulfillmentArrangementInitiateActionReference" : "CFFAIAR742757",
+  "creditFacilityFulfillmentArrangementInitiateActionRecord" : {},
+  "creditFacilityFulfillmentArrangementInstanceReference" : "CFFAIR775529",
+  "creditFacilityFulfillmentArrangementInstanceStatus" : "creditFacilityFulfillmentArrangementInstanceStatus"
+}

@@ -1,0 +1,65 @@
+{
+  "serviceFeesInstanceReport" : {
+    "serviceFeesInstanceReport" : {},
+    "serviceFeesInstanceReportType" : "serviceFeesInstanceReportType",
+    "serviceFeesInstanceReportParameters" : "serviceFeesInstanceReportParameters",
+    "serviceFeesInstanceReportRecord" : {}
+  },
+  "creditFacilityFulfillmentArrangementInstanceRecord" : {
+    "associations" : {
+      "associationReference" : "742109",
+      "associationType" : "associationType",
+      "associationObligationEntitlement" : "associationObligationEntitlement"
+    },
+    "restrictionOptionSetting" : "restrictionOptionSetting",
+    "restrictionOptionDefinition" : "restrictionOptionDefinition",
+    "creditFacilityNumber" : "creditFacilityNumber",
+    "customerCommentary" : "customerCommentary",
+    "creditFacilityOutstandingBalance" : "creditFacilityOutstandingBalance",
+    "productInstanceReference" : "762322",
+    "dateType" : {
+      "date" : "09-22-2018"
+    },
+    "entitlementOptionSetting" : "entitlementOptionSetting",
+    "customerReference" : "772689",
+    "creditFacilityAccessTerms" : "creditFacilityAccessTerms",
+    "creditFacilityUnderlyingDrawdown" : {
+      "drawdownRecord" : {
+        "drawdownLoanTransaction" : "drawdownLoanTransaction"
+      },
+      "drawdownReference" : "775979"
+    },
+    "entitlementOptionDefinition" : "entitlementOptionDefinition"
+  },
+  "serviceFeesInstanceAnalysis" : {
+    "serviceFeesInstanceAnalysisReport" : {},
+    "serviceFeesInstanceAnalysisParameters" : "serviceFeesInstanceAnalysisParameters",
+    "serviceFeesInstanceAnalysisReportType" : "serviceFeesInstanceAnalysisReportType",
+    "serviceFeesInstanceAnalysisRecord" : {}
+  },
+  "serviceFeesRetrieveActionTaskReference" : "SFRATR790926",
+  "serviceFeesRetrieveActionResponse" : "serviceFeesRetrieveActionResponse",
+  "serviceFeesRetrieveActionTaskRecord" : {},
+  "serviceFeesInstanceRecord" : {
+    "feeConfigurationProfile" : {
+      "feeDefinition" : "feeDefinition",
+      "feeType" : "feeType"
+    },
+    "feeApplicationRecord" : {
+      "feeAccrualAmount" : {
+        "accrualFeeType" : "accrualFeeType",
+        "accrualFeeCharge" : "USD 250"
+      },
+      "feeTransaction" : {
+        "transactionFeeCharge" : "USD 250",
+        "transactionDescription" : "transactionDescription",
+        "transactionFeeType" : "transactionFeeType"
+      },
+      "feeProjectionsandCommitments" : {
+        "projectedTransactionDescription" : "projectedTransactionDescription",
+        "projectedTransactionFeeType" : "projectedTransactionFeeType",
+        "projectedTransactionFeeCharge" : "USD 250"
+      }
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "creditFacilityFulfillmentArrangementInstanceRecord" : {
+    "dateType" : {
+      "date" : "09-22-2018"
+    },
+    "stagedRepaymentStatement" : "stagedRepaymentStatement",
+    "customerCommentary" : "customerCommentary",
+    "creditFacilityOutstandingBalance" : "creditFacilityOutstandingBalance"
+  },
+  "restructuringInstanceStatus" : "restructuringInstanceStatus",
+  "restructuringInstanceReference" : "RIR777134",
+  "restructuringInitiateActionReference" : "RIAR737150",
+  "restructuringInitiateActionRecord" : {},
+  "restructuringInstanceRecord" : {
+    "restructuringEvaluation" : "restructuringEvaluation",
+    "restructuringWriteDown" : "restructuringWriteDown",
+    "restructuringTask" : "restructuringTask"
+  }
+}

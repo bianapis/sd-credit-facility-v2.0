@@ -1,0 +1,48 @@
+{
+  "creditFacilityFulfillmentArrangementInstanceRecord" : {
+    "restrictionOptionSetting" : "restrictionOptionSetting",
+    "restrictionOptionDefinition" : "restrictionOptionDefinition",
+    "creditFacilityNumber" : "creditFacilityNumber",
+    "partyReference" : "706863",
+    "creditFacilityOutstandingBalance" : "creditFacilityOutstandingBalance",
+    "productInstanceReference" : "769030",
+    "repaymentType" : "repaymentType",
+    "dateType" : {
+      "date" : "09-22-2018"
+    },
+    "entitlementOptionSetting" : "entitlementOptionSetting",
+    "customerReference" : "710383",
+    "creditFacilityAccessTerms" : "creditFacilityAccessTerms",
+    "creditFacilityUnderlyingDrawdown" : {
+      "drawdownRecord" : {
+        "drawdownLoanTransaction" : "drawdownLoanTransaction"
+      },
+      "drawdownReference" : "787045"
+    },
+    "entitlementOptionDefinition" : "entitlementOptionDefinition"
+  },
+  "repaymentRetrieveActionTaskReference" : "RRATR798800",
+  "repaymentInstanceReport" : {
+    "repaymentInstanceReportParameters" : "repaymentInstanceReportParameters",
+    "repaymentInstanceReportType" : "repaymentInstanceReportType",
+    "repaymentInstanceReport" : {},
+    "repaymentInstanceReportRecord" : {}
+  },
+  "repaymentRetrieveActionResponse" : "repaymentRetrieveActionResponse",
+  "repaymentInstanceRecord" : {
+    "repaymentTransactionPayerProductInstanceReference" : "749181",
+    "repaymentTransactionCurrency" : "USD",
+    "repaymentTransactionType" : "repaymentTransactionType",
+    "repaymentTransactionAmount" : "USD 250",
+    "repaymentTransactionPayerReference" : "741431",
+    "repaymentTransactionPayerBankReference" : "705026",
+    "repaymentTransactionValueDate" : "09-22-2018"
+  },
+  "repaymentRetrieveActionTaskRecord" : {},
+  "repaymentInstanceAnalysis" : {
+    "repaymentInstanceAnalysisReportType" : "repaymentInstanceAnalysisReportType",
+    "repaymentInstanceAnalysisRecord" : {},
+    "repaymentInstanceAnalysisReport" : {},
+    "repaymentInstanceAnalysisParameters" : "repaymentInstanceAnalysisParameters"
+  }
+}

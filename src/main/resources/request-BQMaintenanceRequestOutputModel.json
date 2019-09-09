@@ -1,0 +1,16 @@
+{
+  "maintenanceRequestActionTaskRecord" : {},
+  "maintenanceRequestActionTaskReference" : "MRATR761964",
+  "maintenanceInstanceRecord" : {
+    "maintenanceReportType" : {
+      "creditFacilityCollateralValuation" : "creditFacilityCollateralValuation",
+      "creditFacilityTaxReport" : {},
+      "creditFacilityFeeType" : {
+        "creditFacilityFees" : "creditFacilityFees"
+      },
+      "creditFacilityPenalties" : "creditFacilityPenalties"
+    }
+  },
+  "maintenanceRequestRecordReference" : "MRRR741048",
+  "requestResponseRecord" : {}
+}
